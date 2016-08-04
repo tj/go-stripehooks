@@ -4,6 +4,7 @@ Stripe Webhook manager with verification support.
 
 ## Badges
 
+[![Build Status](https://semaphoreci.com/api/v1/tj/go-stripehooks/branches/master/badge.svg)](https://semaphoreci.com/tj/go-stripehooks)
 [![GoDoc](https://godoc.org/github.com/tj/go-stripehooks?status.svg)](https://godoc.org/github.com/tj/go-stripehooks)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-stable-green.svg)
